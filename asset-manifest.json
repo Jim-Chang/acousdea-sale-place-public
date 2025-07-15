@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://cdn.jsdelivr.net/gh/Jim-Chang/acousdea-sale-place-public/static/css/main.e6c13ad2.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/Jim-Chang/acousdea-sale-place-public/static/js/main.979b2529.js",
+    "main.js": "https://cdn.jsdelivr.net/gh/Jim-Chang/acousdea-sale-place-public/static/js/main.b69586ee.js",
     "static/js/787.c1382c82.chunk.js": "https://cdn.jsdelivr.net/gh/Jim-Chang/acousdea-sale-place-public/static/js/787.c1382c82.chunk.js",
     "index.html": "https://cdn.jsdelivr.net/gh/Jim-Chang/acousdea-sale-place-public/index.html",
     "main.e6c13ad2.css.map": "https://cdn.jsdelivr.net/gh/Jim-Chang/acousdea-sale-place-public/static/css/main.e6c13ad2.css.map",
-    "main.979b2529.js.map": "https://cdn.jsdelivr.net/gh/Jim-Chang/acousdea-sale-place-public/static/js/main.979b2529.js.map",
+    "main.b69586ee.js.map": "https://cdn.jsdelivr.net/gh/Jim-Chang/acousdea-sale-place-public/static/js/main.b69586ee.js.map",
     "787.c1382c82.chunk.js.map": "https://cdn.jsdelivr.net/gh/Jim-Chang/acousdea-sale-place-public/static/js/787.c1382c82.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.979b2529.js"
+    "static/js/main.b69586ee.js"
   ]
 }
