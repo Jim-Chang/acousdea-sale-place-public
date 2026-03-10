@@ -45,4 +45,13 @@ acousdea-sale-place-app {
   overflow-y: visible !important;
 }
 
+/* Force iOS Safari to allow vertical scrolling when touching dropdown filters or interactive elements */
+.css-1f7uyq1,
+.css-1bqnmih,
+.css-1dxeegi,
+.chakra-button,
+.chakra-stack {
+  touch-action: pan-y !important;
+}
+
 /*# sourceMappingURL=main.e6c13ad2.css.map*/
