@@ -36,9 +36,12 @@ body {
 acousdea-sale-place-app {
   display: block;
   overflow-x: hidden !important;
-  max-width: 100%;
-  touch-action: pan-y pinch-zoom !important;
-  overscroll-behavior-y: none !important;
+
+  /* Critical for iOS / Nested Scroll: 
+     Force the app to expand fully and NOT create its own scrollbar.
+     This gives scroll control completely back to the Shopify parent body. */
+  height: auto !important;
+  overflow-y: visible !important;
 }
 
 /*# sourceMappingURL=main.e6c13ad2.css.map*/
