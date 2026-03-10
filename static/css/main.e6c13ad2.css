@@ -28,7 +28,8 @@ code {
 
 html,
 body {
-  overflow-x: hidden !important;
+  overflow-x: clip !important;
+  overscroll-behavior-y: none;
   /* Removed width:100% and position: relative to prevent vertical scroll container conflicts on iOS/Safari */
 }
 
