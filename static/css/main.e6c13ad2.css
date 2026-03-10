@@ -37,6 +37,8 @@ acousdea-sale-place-app {
   display: block;
   overflow-x: hidden !important;
   max-width: 100%;
+  touch-action: pan-y pinch-zoom !important;
+  overscroll-behavior-y: none !important;
 }
 
 /*# sourceMappingURL=main.e6c13ad2.css.map*/
